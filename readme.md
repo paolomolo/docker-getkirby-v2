@@ -14,9 +14,9 @@ services:
   docker:
     image: paolomolo/getkirby-apache
     volumes:
-      - ./content:/var/www/html/content
-      - ./site:/var/www/html/site
-      - ./assets:/var/www/html/assets
+      - ./content:/var/www/localhost/htdocs/content
+      - ./site:/var/www/localhost/htdocs/site
+      - ./assets:/var/www/localhost/htdocs/assets
     ports:
       - 80:80
 
