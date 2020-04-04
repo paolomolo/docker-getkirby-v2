@@ -1,4 +1,4 @@
-# Docker for Kirby CMS
+# Docker for Kirby CMS (v2)
 
 Dockerfile for a container running Kirby CMS, Alpine, Apache and PHP7.
 
