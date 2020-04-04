@@ -2,6 +2,8 @@
 
 Dockerfile for a container running Kirby CMS, Alpine, Apache and PHP7.
 
+Kirby 2 is deprecated. For the latest Dockerfile check out [docker-getkirby-v3](https://github.com/paolomolo/docker-getkirby-v3)
+
 ## Getting Started
 
 ### Usage with docker-compose
