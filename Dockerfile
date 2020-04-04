@@ -1,4 +1,4 @@
-FROM paolomolo/apache-php7
+FROM paolomolo/apache-php7:php-7.2
 
 WORKDIR /var/www/localhost/htdocs/
 
