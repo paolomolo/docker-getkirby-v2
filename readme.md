@@ -10,7 +10,7 @@ Kirby 2 is deprecated. For the latest Dockerfile check out [docker-getkirby-v3](
 
 Create a `docker-compose.yml` in your Kirby directory:
 
-```
+``` yaml
 version: '2'
 services:
   docker:
