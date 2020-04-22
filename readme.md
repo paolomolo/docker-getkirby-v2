@@ -37,8 +37,8 @@ Then run `docker-compose up` from your command line and visit `localhost` in you
 * [Apache2](https://github.com/apache) web server
 
 <!-- Badges -->
-[docker-pulls-src]: https://img.shields.io/docker/pulls/paolomolo/getkirby-apache?color=blue
+[docker-pulls-src]: https://img.shields.io/docker/pulls/paolomolo/getkirby-apache?cacheSeconds=21600&color=blue
 [docker-pulls-href]: https://hub.docker.com/r/paolomolo/getkirby-apache
 
-[docker-build-src]: https://img.shields.io/docker/build/paolomolo/getkirby-apache?label=build
+[docker-build-src]: https://img.shields.io/docker/build/paolomolo/getkirby-apache?cacheSeconds=21600&label=build
 [docker-build-href]: https://hub.docker.com/r/paolomolo/getkirby-apache/builds
